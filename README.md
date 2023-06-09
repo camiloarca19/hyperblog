@@ -5,3 +5,5 @@ Un blog increíble para el curso de Git y Github de Platzi
 [![git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png "git")](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png "git")
 
 Creado por el increible platzi team
+
+incluye ejemplos en windos, linux y mac
